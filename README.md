@@ -1,16 +1,15 @@
 # Hi there, I'm Kevin Ogutu!  
 
-## About Me  (You can add a little banner image if you have one)
+## About Me 
 
 I’m an IT Technician and IT Support Lead with more than four years of experience in **networking, G Suite, Wordpress, Windows Server, LMS QA, and cloud systems**. Currently, I’m honing my leadership, communication, and teamwork skills through ALX Africa’s Professional Foundations program.
 
-- 🌱 Currently learning: **Professional Foundations, leadership, teamwork, and communication skills through ALX Africa**
+- 🌱 Currently learning: Back End web development, ALX Africa**
 - 🔭 Working on: **Migrating G Suite infrastructure, network enhancement projects, LMS QA, and process optimization tasks**
-- 🌍 Languages: **(e.g., English, Kiswahili—and if you code in any other "languages" like Python or JavaScript, feel free to mention those here!)**
+- 🌍 Languages: **(English, Kiswahili and JavaScript)**
 - 📫 How to reach me: **kogutu7@gmail.com**
-- ⚡ Fun fact: **I once digitized an M&E system that cut reporting time by 80%—all without formal development experience**
 
-## My Skills  (You can substitute the badges below for relevant icons or emojis)
+## My Skills 
 
 - **Networking** (structured cabling, fiber-optic deployment)  
 - **Windows Server & Cloud Systems** (G Suite, LMS administration, QA)  
@@ -20,10 +19,6 @@ I’m an IT Technician and IT Support Lead with more than four years of experien
 _(Optional: Add image badges if you're on GitHub!)_
 
 ## Featured Work or Projects
-
-### Digitized M&E Database
-- Transformed a manual M&E system into a digital platform, reducing report prep time by **80%**  
-- Tools used: **(if there was a database, spreadsheet, scripts—feel free to insert tech)**
 
 ### Network Infrastructure Upgrade
 - Deployed **fiber-optic networks** across multiple sites—Consolata School Nairobi, Marala Catholic Diocese, Consolata Fathers Regional House—and **doubled connectivity speeds**
@@ -37,4 +32,3 @@ _(Optional: Add image badges if you're on GitHub!)_
 
 - **[LinkedIn](https://www.linkedin.com/in/kevin-otieno-41663b138/)**
 - **Email:** kogutu7@gmail.com
-- *(Optional: personal website, portfolio, or blog)*
